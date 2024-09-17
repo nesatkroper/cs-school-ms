@@ -54,6 +54,12 @@
     <Compile Include="view\Homepage.Designer.cs">
       <DependentUpon>Homepage.cs</DependentUpon>
     </Compile>
+    <Compile Include="view\student\Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\student\Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -81,6 +87,13 @@
       <Project>{6d95c807-78de-47d8-9f29-55e5c28f5279}</Project>
       <Name>backend</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="view\course\" />
+    <Folder Include="view\department\" />
+    <Folder Include="view\instructor\" />
+    <Folder Include="view\salary\" />
+    <Folder Include="view\user\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

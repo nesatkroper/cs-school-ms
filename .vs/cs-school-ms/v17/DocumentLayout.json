@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\T5Y3\\Wednesday\\cs-school-ms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\cs-school-ms\\view\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|solutionrelative:cs-school-ms\\view\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\cs-school-ms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|solutionrelative:cs-school-ms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\backend\\config\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\config\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|solutionrelative:backend\\config\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,19 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\student\\Student.cs",
+              "RelativeDocumentMoniker": "cs-school-ms\\view\\student\\Student.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\student\\Student.cs [Design]",
+              "RelativeToolTip": "cs-school-ms\\view\\student\\Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:26:24.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\Program.cs",
               "RelativeDocumentMoniker": "cs-school-ms\\Program.cs",
               "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\Program.cs",
               "RelativeToolTip": "cs-school-ms\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:21:01.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DBContext.cs",
               "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\config\\DBContext.cs",
               "RelativeDocumentMoniker": "backend\\config\\DBContext.cs",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "backend\\config\\DBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:18:54.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:18:54.327Z"
             }
           ]
         }
