@@ -1,0 +1,6 @@
+D:\T5Y3\Wednesday\cs-school-ms\backend\bin\Debug\backend.dll
+D:\T5Y3\Wednesday\cs-school-ms\backend\bin\Debug\backend.pdb
+D:\T5Y3\Wednesday\cs-school-ms\backend\obj\Debug\backend.csproj.AssemblyReference.cache
+D:\T5Y3\Wednesday\cs-school-ms\backend\obj\Debug\backend.csproj.CoreCompileInputs.cache
+D:\T5Y3\Wednesday\cs-school-ms\backend\obj\Debug\backend.dll
+D:\T5Y3\Wednesday\cs-school-ms\backend\obj\Debug\backend.pdb
