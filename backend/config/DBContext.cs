@@ -16,7 +16,7 @@ namespace backend.config
             if (conn == null)
             {
                 conn = new SqlConnection();
-                conn.ConnectionString = @"Data Source=DESKTOP-BRGH90J\SQLEXPRESS;Initial Catalog=POS;Integrated Security=True;";
+                conn.ConnectionString = @"Data Source=DESKTOP-BRGH90J\SQLEXPRESS;Initial Catalog=school-ms;Integrated Security=True;";
                 conn.Open();
             }
         }

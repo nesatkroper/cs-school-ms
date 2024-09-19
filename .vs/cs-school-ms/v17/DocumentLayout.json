@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "D:\\T5Y3\\Wednesday\\cs-school-ms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\cs-school-ms\\view\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|solutionrelative:cs-school-ms\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\backend\\service\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|solutionrelative:backend\\service\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\backend\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|solutionrelative:backend\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\backend\\config\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|solutionrelative:backend\\config\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\model\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|solutionrelative:backend\\model\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\service\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|solutionrelative:cs-school-ms\\service\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|solutionrelative:cs-school-ms\\view\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|solutionrelative:cs-school-ms\\view\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|d:\\t5y3\\wednesday\\cs-school-ms\\cs-school-ms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95917E4-7EC9-4313-869D-380FD426A6BF}|cs-school-ms\\cs-school-ms.csproj|solutionrelative:cs-school-ms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\config\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D95C807-78DE-47D8-9F29-55E5C28F5279}|backend\\backend.csproj|solutionrelative:backend\\config\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,23 +46,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testService.cs",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\service\\testService.cs",
+              "RelativeDocumentMoniker": "backend\\service\\testService.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\service\\testService.cs",
+              "RelativeToolTip": "backend\\service\\testService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:01:27.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\service\\StudentService.cs",
+              "RelativeDocumentMoniker": "backend\\service\\StudentService.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\service\\StudentService.cs",
+              "RelativeToolTip": "backend\\service\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:59:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\config\\DBContext.cs",
+              "RelativeDocumentMoniker": "backend\\config\\DBContext.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\config\\DBContext.cs",
+              "RelativeToolTip": "backend\\config\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T16:44:31.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "method.cs",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\service\\method.cs",
+              "RelativeDocumentMoniker": "cs-school-ms\\service\\method.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\service\\method.cs",
+              "RelativeToolTip": "cs-school-ms\\service\\method.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:52:37.268Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\Homepage.cs",
+              "RelativeDocumentMoniker": "cs-school-ms\\view\\Homepage.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\Homepage.cs",
+              "RelativeToolTip": "cs-school-ms\\view\\Homepage.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:02:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\Homepage.cs",
+              "RelativeDocumentMoniker": "cs-school-ms\\view\\Homepage.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\Homepage.cs [Design]",
+              "RelativeToolTip": "cs-school-ms\\view\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:02:23.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.cs",
+              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\model\\test.cs",
+              "RelativeDocumentMoniker": "backend\\model\\test.cs",
+              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\model\\test.cs",
+              "RelativeToolTip": "backend\\model\\test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:57:29.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Student.cs [Design]",
               "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\student\\Student.cs",
               "RelativeDocumentMoniker": "cs-school-ms\\view\\student\\Student.cs",
               "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\view\\student\\Student.cs [Design]",
               "RelativeToolTip": "cs-school-ms\\view\\student\\Student.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:26:24.048Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-17T13:26:24.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\cs-school-ms\\Program.cs",
               "RelativeDocumentMoniker": "cs-school-ms\\Program.cs",
@@ -46,20 +157,7 @@
               "RelativeToolTip": "cs-school-ms\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:21:01.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DBContext.cs",
-              "DocumentMoniker": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\config\\DBContext.cs",
-              "RelativeDocumentMoniker": "backend\\config\\DBContext.cs",
-              "ToolTip": "D:\\T5Y3\\Wednesday\\cs-school-ms\\backend\\config\\DBContext.cs",
-              "RelativeToolTip": "backend\\config\\DBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:18:54.327Z"
+              "WhenOpened": "2024-09-17T13:21:01.903Z"
             }
           ]
         }

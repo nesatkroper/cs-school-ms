@@ -10,3 +10,4 @@ D:\T5Y3\Wednesday\cs-school-ms\cs-school-ms\obj\Debug\cs-school-ms.csproj.CoreCo
 D:\T5Y3\Wednesday\cs-school-ms\cs-school-ms\obj\Debug\cs-schoo.A9BDEBD8.Up2Date
 D:\T5Y3\Wednesday\cs-school-ms\cs-school-ms\obj\Debug\cs-school-ms.exe
 D:\T5Y3\Wednesday\cs-school-ms\cs-school-ms\obj\Debug\cs-school-ms.pdb
+D:\T5Y3\Wednesday\cs-school-ms\cs-school-ms\obj\Debug\cs_school_ms.view.Homepage.resources
